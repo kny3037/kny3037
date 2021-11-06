@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi my name is Nayeong Kim 👋
+
+- I'm studying to become a backend developer
+- 
 
 <!--
 **kny3037/kny3037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
