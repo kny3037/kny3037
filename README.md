@@ -1,6 +1,7 @@
 ### Hi my name is Nayeong Kim 👋
 
 -🌱 I'm studying to become a backend developer
+<br>
 -😊 I'm preparing my personal jsp project
 
 <!--
