@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </pre>
-
- 
+<pre>
+📫 How to reach me ...
+<a href="mailto:psi505968@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ </pre>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kny3037&theme=default&show_icons=true)
