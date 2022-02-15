@@ -3,7 +3,9 @@
 ## Hi my name is Nayeong Kim 👋
 
 - 🌱 I'm studying to become a **backend developer**
+<!--
 - 😊 I'm preparing my personal **jsp project**
+-->
 
 <!--
 **kny3037/kny3037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
