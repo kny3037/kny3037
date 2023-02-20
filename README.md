@@ -3,7 +3,7 @@
 ## Hi my name is Nayeong Kim 👋
 
 - 🌱 I'm studying to become a **backend developer**
-- 🦁 I'm currently studying at **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)
+- 🦁 **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)
 <!--
 - 😊 I'm preparing my personal **jsp project**
 -->
