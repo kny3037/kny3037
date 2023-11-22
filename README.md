@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 📫 How to reach me ...
 <a href="mailto:psi505968@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  </pre>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kny3037&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ <br/>
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kny3037&theme=default&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kny3037)](https://github.com/anuraghazra/github-readme-stats)
 
