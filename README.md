@@ -19,8 +19,14 @@
 </span>
 
 <span>
-  <a href="https://www.instagram.com/psi5059/" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/psi5059" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
+  </a>
+</span>
+
+<span>
+  <a href="https://descriptive-soda-58f.notion.site/e89de2e8a0e948b68d6932b6f65fe493?pvs=4" target="_blank">
+   <img src="https://img.shields.io/badge/-AboutMe-000000?style=flat&logo=notion&logoColor=white"/></a>  
   </a>
 </span>
 <br><br>
@@ -30,6 +36,7 @@
 
  ### EDUCATION
  🦁 **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)
+ <br>
  💻 **메타버스 아카데미 서버개발 2기**(23.08.01 ~ 23.12.12)
 
  ### SKILLS
@@ -62,7 +69,12 @@
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kny3037&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=kny3037&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kny3037&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+-->
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kimkungya&theme=bluedot&border_color=black)](https://kimkungya.tistory.com)
+</div><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7BECE7,100:5F72DC&height=40&section=footer&text=&fontSize=0" width="100%"/>
