@@ -19,12 +19,6 @@
 </span>
 
 <span>
-  <a href="https://www.instagram.com/psi5059" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
-  </a>
-</span>
-
-<span>
   <a href="https://descriptive-soda-58f.notion.site/e89de2e8a0e948b68d6932b6f65fe493?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/-AboutMe-000000?style=flat&logo=notion&logoColor=white"/></a>  
   </a>
