@@ -9,9 +9,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkny3037&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/kny3037?style=social">
 <br><br>
 
-<details>
-<summary>About Me</summary>
-<br><br>
+
+### About Me & Contact
 <span>
   <a href="mailto:psi505968@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -23,15 +22,15 @@
    <img src="https://img.shields.io/badge/-AboutMe-000000?style=flat&logo=notion&logoColor=white"/></a>  
   </a>
 </span>
-<br><br>
+
 
 ### OBJECTIVE
  🌱I'm studying to become a backend developer
 
  ### EDUCATION
- 🦁 **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)
- <br>
  💻 **메타버스 아카데미 서버개발 2기**(23.08.01 ~ 23.12.12)
+ <br>
+ 🦁 **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)
 
  ### SKILLS
 <span>
@@ -58,7 +57,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </span>
 
-</details>
+
 
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kny3037&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
