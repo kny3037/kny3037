@@ -30,7 +30,7 @@
  ### EDUCATION
  💻 **메타버스 아카데미 서버개발 2기**(23.08.01 ~ 23.12.12)
  <br>
- 🦁 **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)
+ 🦁 **멋쟁이사자처럼 back-end school 2기**(22.09.19 ~ 23.02.17)  
 
  ### SKILLS
 <span>
@@ -66,6 +66,16 @@
 <!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kny3037&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 -->
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kny3037&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/kny3037?pet-id=667398647381511275"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kimkungya&theme=bluedot&border_color=black)](https://kimkungya.tistory.com)
 </div><br>
