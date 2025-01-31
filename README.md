@@ -70,7 +70,7 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kny3037&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/kny3037?pet-id=667398647381511275"
+    src="https://render.gitanimals.org/lines/kny3037?pet-id=673066379150981915"
     width="600"
     height="120"
   />
